@@ -215,7 +215,4 @@ Attach the actual screenshots and complete PoC source as separate files if reque
 - The primary reproduction uses a fixed PHP marker only. It does not demonstrate shell access, credential theft, lateral movement, persistence, or post-exploitation.
 - Coordinate disclosure timing with the maintainer where possible and do not publish live credentials, session cookies, CSRF tokens, or non-public target details.
 
-Included is some information about a GitHub repository and its language composition.
-repo: solo506/BKWLD-Decoy-Unauthenticated-PHP-Code-Execution
-repo ID: 1439102814
-The description for this repo is `BKWLD Decoy: Arbitrary File Upload Can Lead to Unauthenticated PHP Code Execution`.
+
